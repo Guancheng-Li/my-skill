@@ -1,0 +1,2 @@
+# my-skill
+AI skills
